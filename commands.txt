@@ -1,0 +1,13 @@
+1. Downloaded and installed git
+2. git init
+3. git add file names
+4. git add.
+5. git status
+6. git commit -m
+7. git log
+8. git diff
+9. git checkout
+10. git remote add origin
+11. git push
+12. git branch
+13. 
