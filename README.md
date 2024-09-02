@@ -1,0 +1,2 @@
+# TO BE DELETED AFTER THE ALX SESSION
+- We are learning Git at ALX
